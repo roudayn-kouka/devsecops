@@ -34,6 +34,8 @@ Inside Jenkins-Server-TF, Terraform scripts are used to:
 
 Provision AWS infrastructure
 Deploy and configure Jenkins server
+
+
 ☸️ Kubernetes Manifests Files
 
 The Kubernetes-Manifests-Files directory contains:
